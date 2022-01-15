@@ -1,0 +1,7 @@
+"AppState"
+{
+    "AppID"  "285310"
+    "Universe" "1"
+    "installdir" "RCT1TTP"
+    "StateFlags" “4”
+}
